@@ -14,8 +14,5 @@ You can also render the model using the built-in rendering tools in Blender. To 
 # Contributing
 If you'd like to contribute to this project, you can fork the repository and make changes or additions to the 3D model. Once you've made your changes, submit a pull request and we'll review it as soon as possible.
 
-# License
-This project is licensed under the MIT license. You can find more information on the license in the LICENSE file in this repository.
-
-#Acknowledgments
+# Acknowledgments
 The keyboard design used in this project is based on the real-life keypad created by CosminPerRam. Thank you for the inspiration! :)
