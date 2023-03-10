@@ -1,0 +1,28 @@
+# Blender project files
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+
+# Render output
+*.exr
+
+# Backup files
+*.blend1~
+*.blend2~
+*.blend3~
+*.blend4~
+*.blend5~
+*.blend6~
+*.blend7~
+*.blend8~
+*.blend9~
+
+# Other files
+.DS_Store
+Thumbs.db
