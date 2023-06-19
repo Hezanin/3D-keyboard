@@ -1,4 +1,4 @@
-# 3D-keyboard
+# 3D-keypad
 This is a Blender project containing a 3D model of a keyboard. The model is created using Blender version 2.9.
 
 # Installation
@@ -15,4 +15,4 @@ You can also render the model using the built-in rendering tools in Blender. To 
 If you'd like to contribute to this project, you can fork the repository and make changes or additions to the 3D model. Once you've made your changes, submit a pull request and I'll review it as soon as possible. :D
 
 # Acknowledgments
-The keyboard design used in this project is based on the real-life keypad created by [CosminPerRam](https://github.com/CosminPerRam). Thank you for the inspiration!
+The keyboard design used in this project is based on the real-life keypad created by [CosminPerRam](https://github.com/CosminPerRam). Thank you for the inspiration! You can also checkout the model as a wallpaper in Wallpaper Engine on Steam [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2991336306).
